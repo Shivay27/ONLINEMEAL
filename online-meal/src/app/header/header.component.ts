@@ -9,8 +9,8 @@ export class HeaderComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit(): void {+
-    alert("Hello World!");
+  ngOnInit(): void {
+    // alert("Hello World!");
   }
 
 }
